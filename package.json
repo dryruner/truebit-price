@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@studydefi/money-legos": "^2.4.2",
+    "ethers": "^5.1.4",
+    "node-fetch": ">=2.6.1"
+  }
+}
